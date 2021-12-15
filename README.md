@@ -97,9 +97,9 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- TasaDaniosXAgua
 	- TasaRoboAnimales
 	- TasaGastosVeterinarios
-	- TasaLimpiezaEscombros
-	- TasaGastosAlojamiento
-	- TasaGastosMudanza
+	- GastosLimpiezaEscombros
+	- GastosAlojamiento
+	- GastosMudanza
 	
 - CotizacionAccidente
 	- Id
