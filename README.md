@@ -74,7 +74,7 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 
 ## **Definiciones**
 
-Prima: es el costo del seguro, valor técnico.
-Premio: es el valor del seguro, esta conformado por la prima mas los impuestos y gastos.
-Productor: es el nexo entre el asegurado y la compañía de seguro.
-Otras secciones o ramas: Automotor, Comercio, de Vida, Saud, etc.
+- Prima: es el costo del seguro, valor técnico.
+- Premio: es el valor del seguro, esta conformado por la prima mas los impuestos y gastos.
+- Productor: es el nexo entre el asegurado y la compañía de seguro.
+- Otras secciones o ramas: Automotor, Comercio, de Vida, Saud, etc.
