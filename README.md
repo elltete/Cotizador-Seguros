@@ -84,7 +84,7 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- TelefonoAsegurado
 	- EmailAsegurado
 	- FechaCotizacion
-	- IdUsuario
+	- UsuarioId
 	- RamaHogarId
 	- Descripcion
 	- TasaIncendioEdificio
@@ -103,17 +103,16 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	
 - CotizacionAccidente
 	- Id
-	- UsuarioId
 	- Descripcion
 	- NombreAsegurado
 	- TelefonoAsegurado
 	- EmailAsegurado
 	- FechaCotizacion
-	- IdUsuario
 	- RamaAccidenteId
+	- UsuarioId
 	- Descripcion
 	- TasaAccidente
-	- IdActividad
+	- ActividadId
 
 ## **Definiciones**
 
