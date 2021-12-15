@@ -46,6 +46,8 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- Nombre
 	- Apellido
 	- FechaAlta
+	- ListaCotizacionesHogar
+	- ListaCotizacionesAccidente
 
 - RamaHogar
 	- Id
@@ -68,7 +70,7 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- Id
 	- Descripcion
 	- TasaAccidente
-	- IdActividad
+	- ActividadId
 
 - Actividad
 	- Id
@@ -83,7 +85,7 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- EmailAsegurado
 	- FechaCotizacion
 	- IdUsuario
-	- IdRamaHogar
+	- RamaHogarId
 	- Descripcion
 	- TasaIncendioEdificio
 	- TasaIncendioContenido
@@ -108,7 +110,7 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- EmailAsegurado
 	- FechaCotizacion
 	- IdUsuario
-	- IdRamaAccidente
+	- RamaAccidenteId
 	- Descripcion
 	- TasaAccidente
 	- IdActividad
