@@ -84,7 +84,6 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- TelefonoAsegurado
 	- EmailAsegurado
 	- FechaCotizacion
-	- UsuarioId
 	- RamaHogarId
 	- Descripcion
 	- TasaIncendioEdificio
@@ -109,10 +108,10 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- EmailAsegurado
 	- FechaCotizacion
 	- RamaAccidenteId
-	- UsuarioId
-	- Descripcion
 	- TasaAccidente
-	- ActividadId
+	- SumaPorMuerte
+	- SumaPorInvalidez
+	- SumaPorGastosMedicos
 
 ## **Definiciones**
 
