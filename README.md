@@ -50,10 +50,30 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 - RamaHogar
 	- Id
 	- Descripcion
+	- TasaIncendioEdificio
+	- TasaIncendioContenido
+	- TasaRCLinderos
+	- TasaRoboYOHurto
+	- TasaRoboDinero
+	- TasaCristales
+	- TasaArtefactos
+	- TasaDaniosXAgua
+	- TasaRoboAnimales
+	- TasaGastosVeterinarios
+	- TasaLimpiezaEscombros
+	- TasaGastosAlojamiento
+	- TasaGastosMudanza
 	
 - RamaAccidente
 	- Id
 	- Descripcion
+	- TasaAccidente
+	- IdActividad
+
+- Actividad
+	- Id
+	- Categoria
+	- TasaCategoria
 
 - CotizacionHogar
 	- Id
@@ -62,6 +82,22 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- TelefonoAsegurado
 	- EmailAsegurado
 	- FechaCotizacion
+	- IdUsuario
+	- IdRamaHogar
+	- Descripcion
+	- TasaIncendioEdificio
+	- TasaIncendioContenido
+	- TasaRCLinderos
+	- TasaRoboYOHurto
+	- TasaRoboDinero
+	- TasaCristales
+	- TasaArtefactos
+	- TasaDaniosXAgua
+	- TasaRoboAnimales
+	- TasaGastosVeterinarios
+	- TasaLimpiezaEscombros
+	- TasaGastosAlojamiento
+	- TasaGastosMudanza
 	
 - CotizacionAccidente
 	- Id
@@ -71,6 +107,11 @@ Los Brokers tendrán acceso a sus cotizaciones realizadas.
 	- TelefonoAsegurado
 	- EmailAsegurado
 	- FechaCotizacion
+	- IdUsuario
+	- IdRamaAccidente
+	- Descripcion
+	- TasaAccidente
+	- IdActividad
 
 ## **Definiciones**
 
